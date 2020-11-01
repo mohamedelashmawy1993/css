@@ -1,5 +1,6 @@
 [
   {
+    "category_title": "عثمان 1",
     "result":[
       {"userid":"1",
        "season_title": "المؤسس عثمان 1",
@@ -9,49 +10,55 @@
        "season_summary": "mmmmmmmmmmmmmmmmmmm",
        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
-      {"userid":"1",
-       "season_title": "المؤسس عثمان 2",
-       "season_number": "الموسم الأول",
-       "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-       "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-       "season_summary": "mmmmmmmmmmmmmmmmmmm",
-       "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      {
+        "userid":"1",
+        "season_title": "المؤسس عثمان 2",
+        "season_number": "الموسم الأول",
+        "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
+        "season_summary": "mmmmmmmmmmmmmmmmmmm",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
-      {"userid":"1",
-       "season_title": "المؤسس عثمان 5",
-       "season_number": "الموسم الأول",
-       "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-       "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-       "season_summary": "mmmmmmmmmmmmmmmmmmm",
-       "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      {
+        "userid":"1",
+        "season_title": "المؤسس عثمان 5",
+        "season_number": "الموسم الأول",
+        "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
+        "season_summary": "mmmmmmmmmmmmmmmmmmm",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       }
     ]
   },
   {
+    "category_title": "عثمان 2",
     "result":[
-      {"userid":"1",
-       "season_title": "المؤسس عثمان 1",
-       "season_number": "الموسم الأول",
-       "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-       "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-       "season_summary": "mmmmmmmmmmmmmmmmmmm",
-       "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      {
+        "userid":"1",
+        "season_title": "المؤسس عثمان 1",
+        "season_number": "الموسم الأول",
+        "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
+        "season_summary": "mmmmmmmmmmmmmmmmmmm",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
-      {"userid":"1",
-       "season_title": "المؤسس عثمان 2",
-       "season_number": "الموسم الأول",
-       "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-       "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-       "season_summary": "mmmmmmmmmmmmmmmmmmm",
-       "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      {
+        "userid":"1",
+        "season_title": "المؤسس عثمان 2",
+        "season_number": "الموسم الأول",
+        "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
+        "season_summary": "mmmmmmmmmmmmmmmmmmm",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
-      {"userid":"1",
-       "season_title": "المؤسس عثمان 3",
-       "season_number": "الموسم الأول",
-       "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
-       "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
-       "season_summary": "mmmmmmmmmmmmmmmmmmm",
-       "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
+      {
+        "userid":"1",
+        "season_title": "المؤسس عثمان 4",
+        "season_number": "الموسم الأول",
+        "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
+        "season_link": "https://raw.githubusercontent.com/ms-series/TR/os1/",
+        "season_summary": "mmmmmmmmmmmmmmmmmmm",
+        "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       }
     ]
   }
