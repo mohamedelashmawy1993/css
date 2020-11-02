@@ -1,9 +1,8 @@
 [
   {
     "category_title": "عثمان 1",
-    "result":[
+    "category":[
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 1",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -12,7 +11,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -21,7 +19,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -30,7 +27,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -39,7 +35,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -48,7 +43,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 5",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -60,9 +54,8 @@
   },
   {
     "category_title": "عثمان 2",
-    "result":[
+    "category":[
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 1",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -71,7 +64,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -80,7 +72,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -89,7 +80,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -98,7 +88,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -107,7 +96,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 4",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -119,9 +107,8 @@
   },
   {
     "category_title": "عثمان 3",
-    "result":[
+    "category":[
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 1",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -130,7 +117,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -139,7 +125,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -148,7 +133,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -157,7 +141,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 2",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
@@ -166,7 +149,6 @@
         "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html"
       },
       {
-        "userid":"1",
         "season_title": "المؤسس عثمان 5",
         "season_number": "الموسم الأول",
         "season_image": "https://pbs.twimg.com/media/EjSIEUdXYAAX91t.jpg",
