@@ -178,12 +178,12 @@
           "server_link": "<video controls='controls' controlslist='nodownload' height='100%' poster='https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png' preload='metadata' width='100%'><source src='https://archive.org/download/ms_series_os/os2.mp4'></source></video>"
         }],
       "server_dubbed":[{
-          "server_title": "سيرفر 1",
-          "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2989148080723' frameborder='0' allow='autoplay'></iframe>"
+          "server_title": "",
+          "server_link": ""
         },
         {
-          "server_title": "سيرفر 2",
-          "server_link": "<video controls='controls' controlslist='nodownload' height='100%' poster='https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png' preload='metadata' width='100%'><source src='https://archive.org/download/ms_series_os/os2.mp4'></source></video>"
+          "server_title": "",
+          "server_link": ""
         }]
     }]
 }]
